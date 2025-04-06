@@ -72,8 +72,6 @@ cd AI_Algorithms
 
 pip install -r requirements.txt
 
-text
-
 ---
 
 ## Team
