@@ -74,9 +74,6 @@ pip install -r requirements.txt
 
 text
 
-## Usage
-### Run All Tests (5 iterations)
-
 ---
 
 ## Team
